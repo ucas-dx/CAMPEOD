@@ -28,4 +28,5 @@ CAMPEOD assumes considerable implications for the realm of
 pharmaceutical screening and ailment emulation.
 
 <img src="https://github.com/ucas-dx/CAMPEOD/assets/77724813/16d85ece-b656-4705-ae92-2dd7071072b1" width="600px">
+![图1](https://github.com/ucas-dx/CAMPEOD/assets/77724813/96fa71e9-bca7-49d7-8d1e-0014c2f43353)
 
