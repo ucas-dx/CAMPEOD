@@ -11,7 +11,7 @@ organoid integrity, thereby impinging upon their intrinsic
 dynamic attributes. Traditional bounding-box detection 
 methodologies fall short in encapsulating intricate 
 morphological particulars, and certain deep-learning 
-approaches grapple with the intricate task of capturing multiscale data, particularly when tasked with discerning organ-like 
+approaches grapple with the intricate task of capturing multi-scale data, particularly when tasked with discerning organ-like 
 structures characterized by marked shape and size 
 heterogeneities. In a bid to surmount these constraints, our 
 study introduces CAMPEOD, an innovative framework that 
