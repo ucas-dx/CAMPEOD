@@ -26,3 +26,5 @@ characteristics. By facilitating comprehensive scrutiny of
 microscopy images of organoid samples on a large scale, 
 CAMPEOD assumes considerable implications for the realm of 
 pharmaceutical screening and ailment emulation.
+<img src="[https://github.com/ucas-dx/CAMPEOD/assets/77724813/16d85ece-b656-4705-ae92-2dd7071072b1]" width="600px">
+
