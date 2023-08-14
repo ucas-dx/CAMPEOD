@@ -85,12 +85,10 @@ mask_transform = transforms.Compose([
     lambda x: torch.as_tensor(x, dtype=torch.float32)
 ])
 
-# root_dir_train = r"PATH FOR YOUR DATA"
-# root_dir_Val = r'PATH FOR YOUR DATA'
-# root_dir_test = r'PATH FOR YOUR DATA'
-root_dir_train = r"test_pad_1c"
-root_dir_Val = r'test_pad_1c'
-root_dir_test = r'test_pad_1c'
+root_dir_train = r"PATH FOR YOUR DATA"
+root_dir_Val = r'PATH FOR YOUR DATA'
+root_dir_test = r'PATH FOR YOUR DATA'
+
 
 
 cell_dataset_train = CellSegmentationDataset(root_dir_train, image_transform=image_transform_train, mask_transform=mask_transform)
